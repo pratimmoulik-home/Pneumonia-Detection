@@ -1,0 +1,1 @@
+In this file, in Google Colab, all the modules are automatically installed. There is no need to do pip install, even for Kaggle. The file can be run on Google Colab as is. Make sure to use an A100 GPU in Google Colab.
